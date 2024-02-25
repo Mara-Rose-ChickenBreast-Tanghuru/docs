@@ -66,12 +66,12 @@ We also use google maps to communicate nearby AEDs and hospitals to increase the
 ---
 
 Click to download a releaed 
-[apk.app-release.apk] (https://github.com/Mara-Rose-ChickenBreast-Tanghuru/Heartnet_APK/blob/5f9e20dfb0dec5a1d37a41a76c7b4f51436853c8/app-release.apk)
+[apk.app-release.apk](https://github.com/Mara-Rose-ChickenBreast-Tanghuru/Heartnet_APK/blob/5f9e20dfb0dec5a1d37a41a76c7b4f51436853c8/app-release.apk)
 To install this, you need to able downloading an app from unknown sources.
 
 ### Requirements
 
-- `requirements.txt` is here! ← (here에 repo 파일 링크 걸어두기)
+- [requirements.txt](https://github.com/Mara-Rose-ChickenBreast-Tanghuru/heart_saver_backend/blob/49fe2e79f2d15b2f6d62ffd8c1a3cd0fa555d25e/requirements.txt) is here!
 - This application was developed on python 3.11
 
 ## ✨ Contributors
