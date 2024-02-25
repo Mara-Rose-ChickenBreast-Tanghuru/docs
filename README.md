@@ -35,7 +35,8 @@ This notifies Saver, including nearby app downloaders, to provide first aid, inc
 
 We also use google maps to communicate nearby AEDs and hospitals to increase the chances of rescue.
 
-![Untitled.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8556cc5b-4f2f-4904-8257-ae48a5ca7916/c523f311-3786-42fe-8b44-99841e3f009f/Untitled.png)
+![Untitled](https://github.com/Mara-Rose-ChickenBreast-Tanghuru/docs/assets/160500012/ee851cc1-be13-4256-b60f-02cd5e627feb)
+
 ---
 
 ## ✨ Architecture
