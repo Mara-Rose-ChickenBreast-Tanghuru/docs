@@ -1,6 +1,6 @@
 # HeartNet
+![7 (1) (1) (1)](https://github.com/Mara-Rose-ChickenBreast-Tanghuru/docs/assets/160500012/53d6370d-4564-487a-b10b-1024d02e1def)
 
-![Frame.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8556cc5b-4f2f-4904-8257-ae48a5ca7916/6ccb38dc-9663-481b-aa5f-3b26e2aa6d4c/Frame.png)
 
 ## ✨ Introduction
 
@@ -19,6 +19,7 @@
 ---
 
 ## ✨ Architecture
+![sadasd](https://github.com/Mara-Rose-ChickenBreast-Tanghuru/docs/assets/160500012/f82d6306-4c43-40f5-be06-091d724af458)
 
 ---
 
