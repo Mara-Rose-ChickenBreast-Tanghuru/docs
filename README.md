@@ -23,7 +23,7 @@ or chronic respiratory disease
 ## ✨ Demo video link
 https://www.youtube.com/watch?v=hF-9MpYVJw8
 
-https://www.youtube.com/watch?v=hF-9MpYVJw8
+
 ---
 
 ## ✨ HeartNet’s solutions
@@ -39,7 +39,9 @@ We also use google maps to communicate nearby AEDs and hospitals to increase the
 ---
 
 ## ✨ Architecture
-![sadasd](https://github.com/Mara-Rose-ChickenBreast-Tanghuru/docs/assets/160500012/f82d6306-4c43-40f5-be06-091d724af458)
+![8](https://github.com/Mara-Rose-ChickenBreast-Tanghuru/docs/assets/160500012/9db88bb7-a22e-4fed-9c25-83658dab731d)
+![13](https://github.com/Mara-Rose-ChickenBreast-Tanghuru/docs/assets/160500012/afd1ddf8-8276-4f19-99c4-669b5945abab)
+
 
 ---
 
