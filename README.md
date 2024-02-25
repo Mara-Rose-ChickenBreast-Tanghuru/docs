@@ -65,7 +65,7 @@ We also use google maps to communicate nearby AEDs and hospitals to increase the
 
 ---
 
-Click to download a releaed apk.(이 부분에 실제 우리 프로덕트 apk파일이 올라간 구글드라이브 링크가 필요함) To install this, you need to able downloading an app from unknown sources.
+Click to download a releaed apk.app-release.apk To install this, you need to able downloading an app from unknown sources.
 
 ### Requirements
 
